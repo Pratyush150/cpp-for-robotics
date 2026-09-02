@@ -1,6 +1,33 @@
-.vscode/
-*.db
+# Build output
+build/
+bin/
+*.o
+*.a
+*.so
 *.out
 *.exe
-*.o
-build/
+
+# Compiled binaries (these are built from the .cpp sources, never committed)
+/hello_world
+/main_example
+/variable_example
+/constans_ex
+/type_casting
+/float_precission
+/robot_printf
+/robot_output
+/robot_pointer
+/robot_control
+/robot_condition
+/robot_exceptionHandling
+/getline_robot_command
+/stringstream_robotics
+/sensors_staatus
+/simple_robot
+/simple_eigen_example
+/run
+
+# Editors
+.vscode/
+.idea/
+*.swp
