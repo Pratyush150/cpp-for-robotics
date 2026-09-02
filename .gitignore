@@ -11,10 +11,10 @@ bin/
 /hello_world
 /main_example
 /variable_example
-/constans_ex
+/constants_example
 /type_casting
-/float_precission
-/robot_printf
+/float_precision
+/robot_printf_formatting
 /robot_output
 /robot_pointer
 /robot_control
@@ -22,7 +22,7 @@ bin/
 /robot_exceptionHandling
 /getline_robot_command
 /stringstream_robotics
-/sensors_staatus
+/sensor_status
 /simple_robot
 /simple_eigen_example
 /run
@@ -31,3 +31,4 @@ bin/
 .vscode/
 .idea/
 *.swp
+/robot_commenting
